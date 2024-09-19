@@ -7,4 +7,5 @@ clases Python
 - ![image](https://github.com/user-attachments/assets/05930a34-7f6f-4367-b1a7-f7cf8bafe4b4)
 
 - Resultado
-- ![image](https://github.com/user-attachments/assets/27542f69-84fd-41a7-b8db-6bdfb1f01d00)
+- ![image](https://github.com/user-attachments/assets/1f8fec03-7536-4f5c-8eac-7427a66b436f)
+
