@@ -1,6 +1,6 @@
 # Act8_clasesV2_5J
-clases Python
-## Clases Python
+Clases V2 Python
+## Clases V2 Python
 - Codigo
 - ![image](https://github.com/user-attachments/assets/82571cf9-5b87-410e-95cf-0497cfe85d94)
 - ![image](https://github.com/user-attachments/assets/b49c8403-10dd-4e9c-b7d3-61056b6d366d)
